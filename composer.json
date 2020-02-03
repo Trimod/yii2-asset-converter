@@ -11,11 +11,17 @@
             "role": "Author"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/xenforo-ltd/less.php.git"
+        }
+    ],
     "require" : {
         "php": ">=5.4.0",
         "yiisoft/yii2": "2.*",
         "yiisoft/yii2-composer": "2.*",
-        "oyejorge/less.php": "1.7.0.*",
+        "oyejorge/less.php": "dev-master#a172f7def6bf08e0fc88274280d2d9dec7dd97aa",
         "richthegeek/phpsass": "1.*",
         "leafo/scssphp": "0.*",
         "yourilima/scssphp-compass": "1.*"
