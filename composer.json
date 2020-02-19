@@ -21,7 +21,7 @@
         "php": ">=5.4.0",
         "yiisoft/yii2": "2.*",
         "yiisoft/yii2-composer": "2.*",
-        "oyejorge/less.php": "dev-trimod",
+        "oyejorge/less.php": "dev-trimod#v1.7.0.14-trimod",
         "richthegeek/phpsass": "1.*",
         "leafo/scssphp": "0.*",
         "yourilima/scssphp-compass": "1.*"
